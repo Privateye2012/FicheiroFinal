@@ -1,0 +1,14 @@
+Running tests/error-float-to-int.mp
+line 1:8 missing INT at '1.5'
+Running tests/errors.mp
+line 1:10 mismatched input '"a"' expecting {INT, FLOAT}
+Running tests/ex1.mp
+Running tests/float-assignement.mp
+Running tests/float-explicit-declaration.mp
+Running tests/float-multi-declaration.mp
+Running tests/function.mp
+Running tests/if1.mp
+Running tests/int-declaration.mp
+Running tests/int-multi-declaration.mp
+Running tests/lists.mp
+Running tests/simple-assignmenets.mp
